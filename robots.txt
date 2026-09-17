@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://juctmedy-rgb.github.io/mnkp3d/sitemap.xml
+Sitemap: https://har-2026.github.io/mnkp3d/sitemap.xml
